@@ -2,6 +2,8 @@
 
 Demo Link [equitable-dapp-docs](https://equitable-dapp-docs.onrender.com/)
 
+Pitch for hackathon [Pitch](https://youtu.be/SSSdCwFbaFQ)
+
 ### Installation
 
 ```
